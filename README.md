@@ -1,9 +1,5 @@
 # 💫 About Me:
-👯 I'm Anuj Lakra, a Software Development Engineer in Test who loves breaking things (in a good way) to make them better.
-
-<br>🔭 When I'm not writing test scripts or debugging, you can find me exploring new tech trends, hiking up a trail, or capturing beautiful moments through my lens.
-
-<br>💬 Ask me about Software Test Automation<br>
+👯 I'm Anuj Lakra, a Software Development Engineer in Test who loves breaking things (in a good way) to make them better.<br>🔭 When I'm not writing test scripts or debugging, you can find me exploring new tech trends, hiking up a trail, or capturing beautiful moments through my lens.<br>💬 Ask me about Software Test Automation<br>
 
 
 ## 🌐 Socials:
@@ -15,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=anuj-lakra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anuj-lakra&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-lakra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anuj-lakra&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anuj-lakra&icon=0&color=6)](https://visitcount.itsvg.in)
